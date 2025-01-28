@@ -1,5 +1,5 @@
-# improvement
-app for boost your learning
+# MasterIT
+app to boost your learning
 
 # Description
 App dising to help students improve their language or boost their language academic porpose.
